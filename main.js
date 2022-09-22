@@ -1,0 +1,1 @@
+document.querySelector(".myname").innerHTML ="Đinh Ngọc Liên Nhi";
